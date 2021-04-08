@@ -2,10 +2,10 @@
 
 ## Setup
 - Fork this repository by clicking the "Fork" button in the top-right corner
-- Clone the new repository to your local machine using Git
+- Clone the new repository to your local machine using `git clone {url}`
 
 ## Steps
-1. Complete the steps in the HTML document to build a prototype interface for the colour randomizer
+1. Complete the steps in the HTML document to build a prototype interface for the colour-randomizer
 2. Built a colour string using `getRandomColorChannel()` for each of the three colour channels (R, G, B)
 3. Update user interface (`document`), setting the new colour to the body's background
 4. Use the new RGB value to update the label "rgb(###, ####, ###)" (replacing ###s with the Number values)
